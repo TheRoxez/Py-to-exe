@@ -1,0 +1,45 @@
+Setup
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
+Bu uygulama python3.10 sürümü ile yazılmıştır.
+
+Uygulama python dosyasını exe'ye çevirmemizi sağlar.
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+| Önemli:                                                               |
+| ▬▬▬▬▬▬▬                                                               |
+|                                                                       |
+| Bu uygulamayı çalıştırabilmek için requirements.txt içerisindeki      |
+| kütüphaneleri yüklemeniz gerekmektedir.				|	  
+|                                                                       |
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××KULLANIM××××××××××××××
+
+1.
+Cmd/PowerShell açılır.
+
+2.
+Setup.py dosyasının olduğu konuma gidilir örn:'cd Desktop'.
+
+3.
+'Setup.py build' komutunu girin ve bekleyin. Kod kısmında execute kısmına girdiğimiz dosya yolundaki python dosyasını çıkaracaktır.
+
+4.
+Dosyalar komutu çalıştırdığınız dizine aktarılacaktır 'cd Desktop' komutu ile masaütsüne gittiyseniz masaüstünde oluşturulacaktır.
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
+Geçmiş:
+▬▬▬▬▬▬▬
+10/04/23 - Oluşturulma tarihi
+
+Teşekkürler
